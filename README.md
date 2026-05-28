@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <div align="center">
+<div align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&pause=100000&color=1C7ED6&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+WorkHaH." alt="Hi" /> -->
   <p>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" height="32" alt="wave" />
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 - 🚀 I enjoy building practical AI applications.
 - 🌱 I am exploring Agent workflows, RAG systems, and full-stack engineering.
-- 📫 I am open to internships, collaborations, and open-source projects. -->
+- 📫 I am open to internships, collaborations, and open-source projects. 
 
 <div align="center">
   <p>
-    👋
+    <span style="font-size: 32px;">👋</span>
     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=32&pause=100000&color=1C7ED6&center=true&vCenter=true&width=520&height=45&lines=Hi%2C+I'm+WorkHaH." alt="Hi, I'm WorkHaH." />
   </p>
 
